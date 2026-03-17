@@ -56,14 +56,14 @@
 <img src="https://img.shields.io/badge/Docker-333333?logo=docker&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">&nbsp;
 
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/postgresql-4169e1?logo=postgresql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white">&nbsp;
 
 <img src="https://img.shields.io/badge/Pentaho-FF6D00?logo=apache&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Flyway-CC0200?logo=flyway&logoColor=white">&nbsp;
+
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white&style=flat">&nbsp;
